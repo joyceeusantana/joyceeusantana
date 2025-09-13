@@ -1,7 +1,7 @@
 # 👩🏽‍💻 Joyce Santana
 **`Software Developer`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@AnimaCobol)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Joyce Santana, tenho 26 anos e sou natural do Rio de Janeiro. Graduada em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac. Apaixonada por arte, literatura e tecnologia, compartilho os meus conhecimentos na linguagem COBOL através de animações no meu canal no YouTube "[Anima Cobol](https://www.youtube.com/@AnimaCobol)".
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AnimaCobol)
