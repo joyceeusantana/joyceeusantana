@@ -1,7 +1,7 @@
 # 👩🏽‍💻 Joyce Santana
 **`Software Developer`**
 
-Me chamo Joyce Santana, tenho 26 anos e sou natural do Rio de Janeiro. Graduada em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac. Apaixonada por arte, literatura e tecnologia, compartilho os meus conhecimentos na linguagem COBOL através de animações no meu canal no YouTube "[Anima Cobol](https://www.youtube.com/@AnimaCobol)".
+Me chamo Joyce Santana, tenho 26 anos e sou natural do Rio de Janeiro. Graduada em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac. Sou apaixonada por arte, literatura e tecnologia, e compartilho os meus conhecimentos na linguagem COBOL através de animações no meu canal no YouTube "[Anima Cobol](https://www.youtube.com/@AnimaCobol)".
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AnimaCobol)
