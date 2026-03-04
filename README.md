@@ -1,12 +1,10 @@
-# 👩🏽‍💻 Joyce Santana
+# ⚙️ Joyce Santana ⚙️
 **`Materials Engineer`**
 
 "Graduanda em Engenharia de Materiais pela UERJ e graduada em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC. Uma mente multidisciplinar com sólida base em automação de processos e análise orientada a dados.".
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AnimaCobol)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/entreaspastech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santanaeujoyce/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyceeusantana/)
 
 ---
 
