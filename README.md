@@ -17,26 +17,21 @@
 ## 🤖 Linguagens e Tecnologias
 
 <div align="center">
-  <br />
   <h3>Linguagens</h3>
   <img alt="Python"     title="Python"     height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="JavaScript" title="JavaScript" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="C#"         title="C#"         height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="COBOL"      title="COBOL"      height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" />
-  <br /><br /><br />
   <h3>Front-end</h3>
   <img alt="HTML5"     title="HTML5"     height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="CSS3"      title="CSS3"      height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="Bootstrap" title="Bootstrap" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <br /><br /><br />
   <h3>Back-end · Dados · Cloud</h3>
   <img alt=".NET Core" title=".NET Core" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="MySQL"     title="MySQL"     height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="AWS"       title="AWS"       height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <br /><br /><br />
   <h3>Ferramentas</h3>
   <img alt="Git" title="Git" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <br />
 </div>
 
 ---
@@ -44,9 +39,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <br />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=joyceeusantana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyceeusantana&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20usadas&langs_count=9&hide_border=true" alt="Linguagens mais usadas" />
-  <br /><br />
+  <br />
   <img height="170" src="https://streak-stats.demolab.com?user=joyceeusantana&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </div>
